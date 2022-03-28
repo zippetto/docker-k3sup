@@ -1,2 +1,2 @@
 # docker-k3sup
-Dockerized IaC framework for k3sup
+Docker Image for k3sup
